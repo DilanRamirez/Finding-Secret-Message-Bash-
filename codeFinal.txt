@@ -1,0 +1,12 @@
+SEA 3 JWWilliams
+SFO 9 DCClark
+NHD 9 OOSklar
+SIN 11 OCLowenstein
+JFK 20 KZYates
+HOU 24 SEAbowd
+IAD 25 UPLowenstein
+ELP 33 NHDix
+CJS 33 OKChavez
+PIT 40 VWBauman
+ABQ 68 KSYates
+ORD 75 PITolonie
